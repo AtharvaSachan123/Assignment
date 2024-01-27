@@ -4,7 +4,6 @@ import naruto from '../assests/naruto.jpg';
 import onepiece from '../assests/onepiece.jpg';
 
 const Cart = () => {
-  // Sample book data
   const books = [
     { id: 1, title: 'Demon Slayer', image: demon, price: 20.0, details: ['Author: XI Young', 'Genre: Anime', 'Year: 2020'] },
     { id: 2, title: 'Naruto', image: naruto, price: 15.0, details: ['Author: Sasuke Uchicha', 'Genre: Anime', 'Year: 2003'] },
